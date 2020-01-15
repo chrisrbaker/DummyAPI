@@ -28,16 +28,30 @@
   "profile": {
     "name": "typicode"
   },
-    "CreateRe": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ]
+    "CreateRe": {
+      "@odata.context": "http://dodsgbnu:7048/BC/api/QuantiQ/Dods/v1.1/$metadata#companies(a2250f40-fbb2-40f1-a39b-fa1e44971a49)/salesordersstaging/$entity",
+      "@odata.etag": "W/\"JzQ0O3VZQWcwZnVxSkJBUlQvZTBsK25QUHVZT1VMYm9iSVZqdUxKbFJEM1VwL1E9MTswMDsn\"",
+      "entryNo": 4,
+      "ceSalesOrderNo": "2342E3D4",
+      "ceQuoteNo": "44SE44",
+      "ceOpportunityNo": "3S232",
+      "accountNo": "23A33",
+      "parentAccountNo": "34A55",
+      "currencyCode": "",
+      "invoiceDate": "2020-01-08",
+      "dateFufilled": "2020-01-08",
+      "billingSchedule": "Monthly",
+      "productNo": "1000",
+      "quantity": 1000,
+      "pricePerUnit": 12,
+      "contractNo": "C443",
+      "contractStartDate": "2020-01-08",
+      "contractEndDate": "2020-03-26",
+      "cancellationPeriod": "None",
+      "cancelled": false,
+      "cancelledDate": "0001-01-01",
+      "status": "Awaiting Processing",
+      "salesOrderID": "3a626388-99c9-4520-be05-89a54b94b160"
+  }
+
 }
