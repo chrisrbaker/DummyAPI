@@ -29,7 +29,6 @@
     "name": "typicode"
   },
     "CreateReq": {
-      "@odata.etag": "W/\"JzQ0O3VZQWcwZnVxSkJBUlQvZTBsK25QUHVZT1VMYm9iSVZqdUxKbFJEM1VwL1E9MTswMDsn\"",
       "entryNo": 4,
       "ceSalesOrderNo": "2342E3D4",
       "ceQuoteNo": "44SE44",
