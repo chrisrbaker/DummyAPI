@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-    "CreateRe": {
+    "CreateReq": {
       "@odata.context": "http://dodsgbnu:7048/BC/api/QuantiQ/Dods/v1.1/$metadata#companies(a2250f40-fbb2-40f1-a39b-fa1e44971a49)/salesordersstaging/$entity",
       "@odata.etag": "W/\"JzQ0O3VZQWcwZnVxSkJBUlQvZTBsK25QUHVZT1VMYm9iSVZqdUxKbFJEM1VwL1E9MTswMDsn\"",
       "entryNo": 4,
